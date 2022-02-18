@@ -10,7 +10,7 @@ This webpage can be used to help get specific details on sightings. A user can s
 
 ![image](https://user-images.githubusercontent.com/91395269/154608220-a1073d69-202e-4a19-8685-40a74926ef20.png)
 
-THe site is a great source for infomation and can allow the user to discover insights for themselves.
+The site is a great source for infomation and can allow the user to discover insights for themselves.
 
 
 ## Summary
